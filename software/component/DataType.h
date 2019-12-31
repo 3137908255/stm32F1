@@ -4,7 +4,7 @@
   * @author  西小岑
   * @version V1.0.0
   * @date    2013.10.01
-  * @brief   ringbuff manage module
+  * @brief   DataType Define module
   ******************************************************************************
   * @attention
   Copyright (c) 2013 --- 2019 西小岑. All rights reserved.
